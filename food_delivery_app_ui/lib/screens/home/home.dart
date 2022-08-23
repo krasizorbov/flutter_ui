@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return Scaffold(      
       backgroundColor: kBackground,
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
